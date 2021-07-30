@@ -1,4 +1,4 @@
-# JMeter-Script
+# JMeter-Script-July201
 Open ApacheJMeter.jar to create script
 Add the Thraed group where we can record and play our workfolw
 
